@@ -1,1 +1,1 @@
-# black_jack
+# Black Jack Game Assistant
